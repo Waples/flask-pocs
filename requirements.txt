@@ -1,0 +1,4 @@
+# I don't really care about versioning whilst just trying/developing
+Flask
+gunicorn
+virtualenv3
